@@ -44,4 +44,8 @@ Web: The website is designed using HTML, CSS and Javascript. The website is over
 ![WhatsApp Image 2021-05-05 at 4 55 33 PM](https://user-images.githubusercontent.com/78071859/117135954-50c23700-adc5-11eb-9e4a-aacc4708de65.jpeg)
 ![WhatsApp Image 2021-05-05 at 4 55 32 PM](https://user-images.githubusercontent.com/78071859/117135970-56b81800-adc5-11eb-807f-dfa5e5b0d44d.jpeg)
 
+##UI of the Website:
+![weba](https://user-images.githubusercontent.com/78071859/117138078-2f167f00-adc8-11eb-9a4f-c0668d296e9a.jpeg)
+![webb](https://user-images.githubusercontent.com/78071859/117138089-30e04280-adc8-11eb-9df3-15bc4cdb3071.jpeg)
+![a](https://user-images.githubusercontent.com/78071859/117139144-88cb7900-adc9-11eb-80b9-4b1ea0e04a0a.jpeg)
 
