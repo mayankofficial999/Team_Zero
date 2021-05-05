@@ -2,7 +2,7 @@
 # Team_Zero
 
 # Project Name
-  Social Distance Maintaining System 
+  Desocialiser
 
 ## Problem Statement
    A local grocery shop owner wants to maintain social distancing amongst his customers and allow only minimal customers at a time into the shop. He would like to have a device    that ensures that there are minimal customers inside the shop and also they are maintaining social distancing. Come up with a product that meets these minimal requirements and also add more features that you think are appropriate to this problem.
