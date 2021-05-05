@@ -38,3 +38,10 @@ Web: The website is designed using HTML, CSS and Javascript. The website is over
  
 
 ## Important URLs
+
+## UI of the APP:
+
+![WhatsApp Image 2021-05-05 at 4 55 33 PM](https://user-images.githubusercontent.com/78071859/117135954-50c23700-adc5-11eb-9e4a-aacc4708de65.jpeg)
+![WhatsApp Image 2021-05-05 at 4 55 32 PM](https://user-images.githubusercontent.com/78071859/117135970-56b81800-adc5-11eb-807f-dfa5e5b0d44d.jpeg)
+
+
