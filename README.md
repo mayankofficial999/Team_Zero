@@ -47,5 +47,7 @@ Web: The website is designed using HTML, CSS and Javascript. The website is over
 ##UI of the Website:
 ![weba](https://user-images.githubusercontent.com/78071859/117138078-2f167f00-adc8-11eb-9a4f-c0668d296e9a.jpeg)
 ![webb](https://user-images.githubusercontent.com/78071859/117138089-30e04280-adc8-11eb-9df3-15bc4cdb3071.jpeg)
+
+##Hardware used:
 ![a](https://user-images.githubusercontent.com/78071859/117139144-88cb7900-adc9-11eb-80b9-4b1ea0e04a0a.jpeg)
 
