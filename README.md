@@ -38,6 +38,8 @@ Web: The website is designed using HTML, CSS and Javascript. The website is over
  
 
 ## Important URLs
+Here's the video of hardware implementation of our project: 
+https://youtu.be/PNuFWqXVRZ8
 
 ## UI of the APP:
 
@@ -51,5 +53,4 @@ Web: The website is designed using HTML, CSS and Javascript. The website is over
 ##Hardware used:
 ![a](https://user-images.githubusercontent.com/78071859/117139144-88cb7900-adc9-11eb-80b9-4b1ea0e04a0a.jpeg)
 
-Here's the video of hardware implementation of our project: 
-https://youtu.be/PNuFWqXVRZ8
+
